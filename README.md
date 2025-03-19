@@ -1,4 +1,9 @@
-# TicTacToe
- using html,css and javascript
+# Tic Tac Toe
+A simple web-based version of the classic Tic Tac Toe game, using HTML, CSS and Javascript.
+
+**Features:**
+- Interactive gameplay
+- Two-player mode
+- Basic JavaScript functionality for game logic
  
-![Alt text](/finalproduct/screenshot.png)
+![TicTacToe](/finalproduct/screenshot.png)
